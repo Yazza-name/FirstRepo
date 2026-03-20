@@ -1,0 +1,2 @@
+# FirstRepo
+javarush python learning
